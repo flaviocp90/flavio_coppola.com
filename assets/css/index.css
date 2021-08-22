@@ -1,0 +1,38 @@
+.colorSpec {
+    color: #70ffbc;
+}
+
+.jumbotron {
+    margin-top: 100px;
+}
+
+.lead {
+    margin-top: 30px;
+    width: 500px;
+}
+
+.col {
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+.main1 {
+    width: 50%;
+    float: left;
+}
+
+.main2 {
+    width: 50%;
+    float: right;
+}
+
+.carousel {
+  text-align: center;
+  margin-top: 70px;
+  font-size: 70px;
+  font-style: italic;
+  
+}
